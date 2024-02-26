@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action1">Первая страничка</string>
+    <string name="action2">Вторая страничка</string>
+    <string name="action3">Третья страничка</string>
+</resources>
